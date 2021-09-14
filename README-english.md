@@ -98,7 +98,7 @@ $ yarn start
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511951488854&text=Ol%C3%A1%20Gustavo.%20Te%20encontrei%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5511951488854&text=Ol%C3%A1%20Gustavo.%20Te%20encontrei%20pelo%20GitHub!)
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.apolonio.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.apolonio.nascimento@gmail.com)](mailto:gustavo.apolonio.nascimento@gmail.com)
 
-## [README in English 🇺🇸](./README-english.md)
+## [README em português 🇧🇷](./README.md)
 
 
 
